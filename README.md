@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
 <meta charset="UTF-8"> <!-- Sets character encoding so emojis and special symbols work -->
